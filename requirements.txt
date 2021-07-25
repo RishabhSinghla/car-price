@@ -70,3 +70,6 @@ webencodings==0.5.1
 Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 youtube-dlc==2020.11.11.post3
+chardet==3.0.4
+wincertstore==0.2
+gunicorn
